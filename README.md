@@ -7,4 +7,4 @@
 - 💬 Ask me about streaming systems, distributed database, etc.
 - 📫 Reach me: tison1096
 - 😄 Pronouns: tison
-- ⚡ Fun fact: I am a modern wizard.
+- ⚡ Fun fact: I'm a modern wizard.
