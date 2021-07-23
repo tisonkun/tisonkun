@@ -7,7 +7,7 @@
 - 💬 Ask me about
   - streaming systems
   - distributed database
-  - open source program
+  - open source program office
 - 📫 Reach me: tison1096
 - 😄 Pronouns: tison
 - ⚡ Fun fact: I'm a modern wizard.
