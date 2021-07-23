@@ -4,7 +4,10 @@
 
 - 👯 I’m looking to collaborate on [ziggurat project](https://github.com/ziggurat-project/overmind)
 - 🤔 I’m looking for help with [restructure tests](https://github.com/pingcap/tidb/issues/26022).
-- 💬 Ask me about streaming systems, distributed database, etc.
+- 💬 Ask me about
+  - streaming systems
+  - distributed database
+  - open source program
 - 📫 Reach me: tison1096
 - 😄 Pronouns: tison
 - ⚡ Fun fact: I'm a modern wizard.
