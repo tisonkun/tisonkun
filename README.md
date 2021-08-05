@@ -3,7 +3,9 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on [ziggurat project](https://github.com/ziggurat-project/overmind)
-- 🤔 I’m looking for help with [restructure tests](https://github.com/pingcap/tidb/issues/26022).
+- 🤔 I’m looking for help with
+  - [TiDB: Restructure Tests](https://github.com/pingcap/tidb/issues/26022)
+  - [TiDB Development Guide](https://github.com/pingcap/tidb-dev-guide)
 - 💬 Ask me about
   - streaming systems
   - distributed database
