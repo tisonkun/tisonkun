@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on [the FLOSSWAY project](https://github.com/flossway/flossway).
 - 🤔 I’m looking for help with:
-  - [Engula: Storage Engine Building Blocks](https://github.com/engula/engula)
+  - [Engula: Serverless Storage Engine](https://github.com/engula/engula)
   - [Restructure TiDB Tests](https://github.com/pingcap/tidb/issues/26022)
 - 💬 Ask me about:
   - streaming systems
