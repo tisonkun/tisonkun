@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on [the FLOSSWAY community](https://github.com/flossway/flossway).
 - 🤔 I’m looking for help with:
-  - [Restructure TiDB Tests](https://github.com/pingcap/tidb/issues/26022)
+  - [Open-source Guides](https://github.com/tisonkun/open-source-guides/)
 - 💬 Ask me about:
   - streaming systems
   - distributed database
