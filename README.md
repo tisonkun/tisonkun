@@ -4,11 +4,12 @@
 
 - 👯 I’m looking to collaborate on [the Korandoru community](https://github.com/korandoru/dryad).
 - 🤔 I’m looking for help with:
-  - [Open-source Town](https://github.com/korandoru/open-source-town/)
+  - [Open-source Town](https://github.com/korandoru/open-source-town)
+  - [Pulsar Planet](https://github.com/tisonkun/pulsar-planet)
 - 💬 Ask me about:
   - streaming systems
   - distributed database
   - building open-source community
 - 📫 Reach me: tison1096
-- 😄 Pronouns: tison
+- 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
