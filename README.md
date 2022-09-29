@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [the Korandoru community](https://github.com/korandoru/dryad).
 - 🤔 I’m looking for help with:
   - [Open-source Town](https://github.com/korandoru/open-source-town)
-  - [Pulsar Planet](https://github.com/tisonkun/pulsar-planet)
+  - [Zeronos: A distributed consensus system](https://github.com/korandoru/zeronos)
 - 💬 Ask me about:
   - streaming systems
   - distributed database
