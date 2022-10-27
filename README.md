@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on [the Korandoru community](https://github.com/korandoru/dryad).
+- 👯 I’m looking to collaborate on [the Korandoru community](https://github.com/korandoru/town).
 - 🤔 I’m looking for help with:
-  - [Open-source Town](https://github.com/korandoru/open-source-town)
+  - [Open-source Town](https://github.com/korandoru/town)
   - [Zeronos: A distributed consensus system](https://github.com/korandoru/zeronos)
 - 💬 Ask me about:
   - streaming systems
