@@ -26,10 +26,11 @@ You can additionally associate the fund with sponsor content. Once the target is
 
 | No. | Topic                                                            | Target | Raised | Status  |
 | --- | ---------------------------------------------------------------- | ------ | ------ | ------- |
-| 000 | Make money from open-source: From software, product to commodity | 127.00 | 0.00   | Pending |
-| 001 | How to review contribution?                                      | 42.00  | 0.00   | Pending |
-| 002 | The story of tests refactoring in Kvrocks                        | 42.00  | 0.00   | Pending |
-| 003 | How to find an open-source community to participate              | 127.00 | 0.00   | Pending |
+| 001 | Make money from open-source: From software, product to commodity | 127.00 | 0.00   | Pending |
+| 002 | How to review contribution?                                      | 42.00  | 0.00   | Pending |
+| 003 | The story of tests refactoring in Kvrocks                        | 42.00  | 0.00   | Pending |
+| 004 | How to find an open-source community to participate              | 127.00 | 0.00   | Pending |
+| 005 | Translation of Developer Experience Infrastructure (DXI)         | 127.00 | 0.00   | Writing |
 
 Transalation:
 
@@ -37,3 +38,4 @@ Transalation:
 2. AS IS
 3. Kvrocks 测试迁移的故事
 4. 如何找到适合参与的开源社区
+5. 【演绎】开发者体验的基础设施
