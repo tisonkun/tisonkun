@@ -24,13 +24,13 @@ You can additionally associate the fund with sponsor content. Once the target is
 
 (Currency Unit = Chinese Yuan)
 
-| No. | Topic                                                            | Target | Raised | Status  |
-| --- | ---------------------------------------------------------------- | ------ | ------ | ------- |
-| 001 | Make money from open-source: From software, product to commodity | 127.00 | 0.00   | Pending |
-| 002 | How to review contribution?                                      | 42.00  | 0.00   | Pending |
-| 003 | The story of tests refactoring in Kvrocks                        | 42.00  | 0.00   | Pending |
-| 004 | How to find an open-source community to participate              | 127.00 | 0.00   | Pending |
-| 005 | Translation of Developer Experience Infrastructure (DXI)         | 127.00 | 5.00   | Writing |
+| No. | Topic                                                            | Target | Raised | Status                                                                                |
+| --- | ---------------------------------------------------------------- | ------ | ------ | ------------------------------------------------------------------------------------- |
+| 001 | Make money from open-source: From software, product to commodity | 127.00 | 0.00   | Pending                                                                               |
+| 002 | How to review contribution?                                      | 42.00  | 0.00   | Pending                                                                               |
+| 003 | The story of tests refactoring in Kvrocks                        | 42.00  | 0.00   | Pending                                                                               |
+| 004 | How to find an open-source community to participate              | 127.00 | 0.00   | Pending                                                                               |
+| 005 | Translation of Developer Experience Infrastructure (DXI)         | 127.00 | 5.00   | [Delivered](https://www.tisonkun.org/2022/10/28/developer-experience-infrastructure/) |
 
 Transalation:
 
