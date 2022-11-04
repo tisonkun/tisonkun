@@ -14,28 +14,24 @@
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
 
-### Sponsor
+### Sponsor my masterpiece 🤝
 
 Welcome to sponsor my open-source works!
 
-You can additionally associate the fund with sponsor content. Once the target is hitted, I'll deliver the content with high priority, typically within two weeks. 
+<img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
 
-<img src="wechat-sponsor.jpeg" width="256" height="256">
+#### Featured projects
 
-(Currency Unit = Chinese Yuan)
+* [Open-source Town](https://town.korandoru.io/), my knowledgebase about how to participate in open-source projects, how to build a community, and how a company work out an open-source strategy.
+* [Apache Kvrocks (Incubating)](https://github.com/apache/incubator-kvrocks), a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
 
-| No. | Topic                                                            | Target | Raised | Status                                                                                |
-| --- | ---------------------------------------------------------------- | ------ | ------ | ------------------------------------------------------------------------------------- |
-| 001 | Make money from open-source: From software, product to commodity | 127.00 | 0.00   | Pending                                                                               |
-| 002 | How to review contribution?                                      | 42.00  | 0.00   | Pending                                                                               |
-| 003 | The story of tests refactoring in Kvrocks                        | 42.00  | 0.00   | Pending                                                                               |
-| 004 | How to find an open-source community to participate              | 127.00 | 0.00   | Pending                                                                               |
-| 005 | Translation of Developer Experience Infrastructure (DXI)         | 127.00 | 5.00   | [Delivered](https://www.tisonkun.org/2022/10/28/developer-experience-infrastructure/) |
+#### Selected posts
 
-Transalation:
-
-1. 开源不赚钱：从软件、产品到商品
-2. AS IS
-3. Kvrocks 测试迁移的故事
-4. 如何找到适合参与的开源社区
-5. 开发者体验的基础设施
+* [上游优先的故事](https://town.korandoru.io/blog/upstream-first-stories)
+* [高效参与开源的诀窍](https://www.tisonkun.org/2021/12/05/effective-open-source-participant/)
+* [共同创造价值](https://www.tisonkun.org/2022/02/10/value-creation/)
+* [开源共同体的治理模型](https://www.tisonkun.org/2022/01/06/open-source-governance/)
+* [开发者关系简明指南](https://www.tisonkun.org/2022/08/05/what-is-devrel/)
+* [开发者体验的基础设施](https://www.tisonkun.org/2022/10/28/developer-experience-infrastructure/)
+* [《大教堂与集市》书评](https://www.tisonkun.org/2021/12/14/the-cathedral-and-the-bazaar/)
+* [《纳瓦尔宝典》书评](https://www.tisonkun.org/2022/06/09/the-almanack-of-naval-ravikant/)
