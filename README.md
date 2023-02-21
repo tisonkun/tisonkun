@@ -8,9 +8,9 @@
   - [Zeronos: A distributed consensus system](https://github.com/korandoru/zeronos)
   - [HawkEye: Simple license header checker and formatter](http://github.com/korandoru/hawkeye)
 - 💬 Ask me about:
-  - streaming systems
-  - distributed database
   - building open-source community
+  - distributed database
+  - streaming systems
 - 📫 Reach me: tison1096
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
