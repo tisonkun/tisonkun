@@ -2,11 +2,15 @@
 
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on [the Korandoru community](https://github.com/korandoru/town).
-- 🤔 I’m looking for help with:
-  - [Open-source Town](https://github.com/korandoru/town)
-  - [Zeronos: A distributed consensus system](https://github.com/korandoru/zeronos)
-  - [HawkEye: Simple license header checker and formatter](http://github.com/korandoru/hawkeye)
+- 👯 I’m actively working on:
+  - [Apache Curator](http://github.com/apache/curator)
+  - [Apache Pulsar](http://github.com/apache/pulsar)
+  - [Apache ZooKeeper](https://github.com/apache/zookeeper)
+- 🤔 I’m mentoring or mentored:
+  - [Apache OpenDAL (incubating)](http://github.com/apache/incubator-opendal)
+  - [Apache StreamPark (incubating)](http://github.com/apache/incubator-streampark)
+  - [Apache Kvrocks](http://github.com/apache/kvrocks) (Guraduated at 2023-06)
+  - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
   - building open-source community
   - distributed database
@@ -23,16 +27,18 @@ Welcome to sponsor my open-source works!
 
 #### Featured projects
 
-* [Open-source Town](https://town.korandoru.io/), my knowledgebase about how to participate in open-source projects, how to build a community, and how a company work out an open-source strategy.
-* [Apache Kvrocks (Incubating)](https://github.com/apache/incubator-kvrocks), a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
+* [HawkEye](http://github.com/korandoru/hawkeye), a simple license header checker and formatter, in multiple distribution forms. I created this tool and adopt it in multiple OSS projects.
+* [Apache Kvrocks](https://github.com/apache/incubator-kvrocks), a distributed key-value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
 
 #### Selected posts
 
-* [上游优先的故事](https://town.korandoru.io/blog/upstream-first-stories)
+* [企业开源的软件协议模型实践](https://www.tisonkun.org/2023/02/15/business-source-license/)
+* [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
+* [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
+* [Maintainer 的标准](https://www.tisonkun.org/2022/09/12/maintainer-criterions/)
 * [高效参与开源的诀窍](https://www.tisonkun.org/2021/12/05/effective-open-source-participant/)
 * [共同创造价值](https://www.tisonkun.org/2022/02/10/value-creation/)
 * [开源共同体的治理模型](https://www.tisonkun.org/2022/01/06/open-source-governance/)
-* [开发者关系简明指南](https://www.tisonkun.org/2022/08/05/what-is-devrel/)
 * [开发者体验的基础设施](https://www.tisonkun.org/2022/10/28/developer-experience-infrastructure/)
 * [《大教堂与集市》书评](https://www.tisonkun.org/2021/12/14/the-cathedral-and-the-bazaar/)
 * [《纳瓦尔宝典》书评](https://www.tisonkun.org/2022/06/09/the-almanack-of-naval-ravikant/)
