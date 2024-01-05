@@ -3,16 +3,19 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
-  - [Apache Curator](http://github.com/apache/curator)
-  - [Apache Pulsar](http://github.com/apache/pulsar)
+  - [Git SCM: A Java library to analyze Git objects](https://github.com/tisonspieces/git-scm)
+  - [Apache Curator](https://github.com/apache/curator)
   - [Apache ZooKeeper](https://github.com/apache/zookeeper)
 - 🤔 I’m mentoring or mentored:
-  - [Apache OpenDAL (incubating)](http://github.com/apache/incubator-opendal)
-  - [Apache StreamPark (incubating)](http://github.com/apache/incubator-streampark)
-  - [Apache Kvrocks](http://github.com/apache/kvrocks) (Guraduated at 2023-06)
+  - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
+  - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
+  - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
+  - [Apache OpenDAL (incubating)](https://github.com/apache/incubator-opendal) (From 2023-02)
+  - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
+  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06) a distributed key-value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
   - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
-  - building open-source community
+  - building an open-source community
   - distributed database
   - streaming systems
 - 📫 Reach me: tison1096
@@ -28,7 +31,6 @@ Welcome to sponsor my open-source works!
 #### Featured projects
 
 * [HawkEye](http://github.com/korandoru/hawkeye), a simple license header checker and formatter, in multiple distribution forms. I created this tool and adopt it in multiple OSS projects.
-* [Apache Kvrocks](https://github.com/apache/incubator-kvrocks), a distributed key-value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
 
 #### Selected posts
 
