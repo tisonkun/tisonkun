@@ -10,15 +10,15 @@
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
-  - [Apache OpenDAL (incubating)](https://github.com/apache/incubator-opendal) (From 2023-02)
   - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
-  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06) a distributed key-value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. I'm acting as its mentor and one of the major contributors.
+  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) (Graduated 2024-01) 
+  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06)
   - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
   - building an open-source community
   - distributed database
   - streaming systems
-- 📫 Reach me: tison1096
+- 📫 Reach me: [tison1096](https://tisonkun.com/)
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
 
@@ -27,10 +27,6 @@
 Welcome to sponsor my open-source works!
 
 <img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
-
-#### Featured projects
-
-* [HawkEye](http://github.com/korandoru/hawkeye), a simple license header checker and formatter, in multiple distribution forms. I created this tool and adopt it in multiple OSS projects.
 
 #### Selected posts
 
