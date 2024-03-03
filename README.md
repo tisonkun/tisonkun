@@ -11,8 +11,8 @@
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
-  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) (Graduated 2024-01, From 2023-02)
-  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06, From 2022-04)
+  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
+  - [Apache Kvrocks](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
   - building an open-source community
@@ -30,13 +30,15 @@ Welcome to sponsor my open-source works!
 
 #### Selected posts
 
-* [企业开源的软件协议模型实践](https://www.tisonkun.org/2023/02/15/business-source-license/)
-* [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
+* [GreptimeDB 社群观察报告](https://www.tisonkun.org/2024/02/08/greptimedb-community-report/)
+* [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
+* [中国不缺好的开源开发者](https://www.tisonkun.org/2023/09/16/oss-develop/)
 * [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
+* [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
+* [企业开源的软件协议模型实践](https://www.tisonkun.org/2023/02/15/business-source-license/)
+* [商业源码协议为何得到 HashiCorp 等企业的垂青？](https://www.tisonkun.org/2023/08/12/bsl/)
 * [Maintainer 的标准](https://www.tisonkun.org/2022/09/12/maintainer-criterions/)
 * [高效参与开源的诀窍](https://www.tisonkun.org/2021/12/05/effective-open-source-participant/)
 * [共同创造价值](https://www.tisonkun.org/2022/02/10/value-creation/)
-* [开源共同体的治理模型](https://www.tisonkun.org/2022/01/06/open-source-governance/)
-* [开发者体验的基础设施](https://www.tisonkun.org/2022/10/28/developer-experience-infrastructure/)
 * [《大教堂与集市》书评](https://www.tisonkun.org/2021/12/14/the-cathedral-and-the-bazaar/)
 * [《纳瓦尔宝典》书评](https://www.tisonkun.org/2022/06/09/the-almanack-of-naval-ravikant/)
