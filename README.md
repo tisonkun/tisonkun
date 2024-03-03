@@ -30,6 +30,12 @@ Welcome to sponsor my open-source works!
 
 #### Selected posts
 
+English:
+
+* [DevRel: North Star Metrics and Values](https://medium.com/@tisonkun/devrel-north-star-metrics-and-values-48d67c1d66ae)
+
+Chinese:
+
 * [GreptimeDB 社群观察报告](https://www.tisonkun.org/2024/02/08/greptimedb-community-report/)
 * [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
 * [中国不缺好的开源开发者](https://www.tisonkun.org/2023/09/16/oss-develop/)
