@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
-  - [Git SCM: A Java library to analyze Git objects](https://github.com/tisonspieces/git-scm)
+  - [Git SCM: A Java library to analyze Git repos](https://github.com/tisonspieces/git-scm)
   - [Apache Curator](https://github.com/apache/curator)
   - [Apache ZooKeeper](https://github.com/apache/zookeeper)
 - 🤔 I’m mentoring or mentored:
@@ -11,8 +11,8 @@
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
-  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) (Graduated 2024-01) 
-  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06)
+  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) (Graduated 2024-01, From 2023-02)
+  - [Apache Kvrocks](https://github.com/apache/kvrocks) (Guraduated at 2023-06, From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
   - building an open-source community
