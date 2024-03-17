@@ -3,16 +3,16 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
-  - [Git SCM: A Java library to analyze Git repos](https://github.com/tisonspieces/git-scm)
-  - [Apache Curator](https://github.com/apache/curator)
-  - [Apache ZooKeeper](https://github.com/apache/zookeeper)
+  - [[Rust] GreptimeDB: Distributed Time-Series Database](https://github.com/GreptimeTeam/greptimedb)
+  - [[Java] Git SCM: A Java implementation for Git](https://github.com/tisonspieces/git-scm)
+  - [[Java] Apache Curator: Distributed Consensus Recipes](https://github.com/apache/curator)
 - 🤔 I’m mentoring or mentored:
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
-  - [Apache OpenDAL](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
-  - [Apache Kvrocks](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
+  - [Apache OpenDAL: Access Data Freely](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
+  - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
 - 💬 Ask me about:
   - building an open-source community
