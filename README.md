@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
-  - [[Rust] GreptimeDB: Distributed Time-Series Database](https://github.com/GreptimeTeam/greptimedb)
+  - [[Rust] GreptimeDB: Cloud-scale, Fast and Efficient Time Series Database](https://github.com/GreptimeTeam/greptimedb)
   - [[Java] Git SCM: A Java implementation for Git](https://github.com/tisonspieces/git-scm)
-  - [[Java] Apache Curator: Distributed Consensus Recipes](https://github.com/apache/curator)
+  - [[Java] Apache Curator: Distributed Coordination Service Recipes](https://github.com/apache/curator)
 - 🤔 I’m mentoring or mentored:
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
