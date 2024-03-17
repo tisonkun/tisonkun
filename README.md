@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats-tisonkun.vercel.app/api?username=tisonkun&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
 ### Hi there 👋
 
 - 👯 I’m actively working on:
@@ -10,7 +8,7 @@
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
-  - [Apache StreamPark (incubating)](https://github.com/apache/incubator-streampark) (From 2022-09)
+  - [Apache StreamPark (incubating): Spark/Flink Job Console](https://github.com/apache/incubator-streampark) (From 2022-09)
   - [Apache OpenDAL: Access Data Freely](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
