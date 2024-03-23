@@ -2,7 +2,7 @@
 
 - 👯 I’m actively working on:
   - [[Rust] GreptimeDB: Cloud-scale, Fast and Efficient Time Series Database](https://github.com/GreptimeTeam/greptimedb)
-  - [[Java] Git SCM: A Java implementation for Git](https://github.com/tisonspieces/git-scm)
+  - [[Rust] HawkEye: Simple license header checker and formatter](https://github.com/korandoru/hawkeye)
   - [[Java] Apache Curator: Distributed Coordination Service Recipes](https://github.com/apache/curator)
 - 🤔 I’m mentoring or mentored:
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
