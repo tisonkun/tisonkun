@@ -7,6 +7,7 @@
 - 🤔 I’m mentoring or mentored:
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
+  - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache StreamPark (incubating): Streaming Job Console](https://github.com/apache/incubator-streampark) (From 2022-09)
   - [Apache OpenDAL: Access Data Freely](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
