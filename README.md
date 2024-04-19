@@ -13,6 +13,15 @@
   - [Apache OpenDAL: Access Data Freely](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
+- 🔧 I'm maintaining or maintained:
+  - [Apache Curator](https://curator.apache.org/docs/about) (Committer, PMC Member)
+  - [Apache Flink](https://flink.apache.org/) (Committer)
+  - [Apache Pulsar](https://pulsar.apache.org/) (Committer, PMC Member)
+  - [Apache ZooKeeper](https://zookeeper.apache.org/) (Committer)
+  - [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) (Team Member)
+  - [Raku (Perl 6)](https://github.com/Raku) (Former Team Member)
+  - [TiDB](https://github.com/pingcap/tidb) (Former Team Member)
+  - [TiKV](https://tikv.org/) (Team Member)
 - 💬 Ask me about:
   - building an open-source community
   - distributed database
