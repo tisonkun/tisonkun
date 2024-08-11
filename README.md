@@ -44,9 +44,8 @@ English:
 
 Chinese:
 
-* [GreptimeDB 社群观察报告](https://www.tisonkun.org/2024/02/08/greptimedb-community-report/)
+* [从参与 Rust 标准库开发看开源贡献的源动力](https://www.tisonkun.org/2024/08/09/rust-lang-acp/)
 * [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
-* [中国不缺好的开源开发者](https://www.tisonkun.org/2023/09/16/oss-develop/)
 * [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
 * [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
 * [企业开源的软件协议模型实践](https://www.tisonkun.org/2023/02/15/business-source-license/)
