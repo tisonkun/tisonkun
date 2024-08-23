@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
-  - [[Rust] GreptimeDB: Cloud-scale, Fast and Efficient Time Series Database](https://github.com/GreptimeTeam/greptimedb)
-  - [[Rust] HawkEye: Simple license header checker and formatter](https://github.com/korandoru/hawkeye)
-  - [[Java] Apache Curator: Distributed Coordination Service Recipes](https://github.com/apache/curator)
+  - [[Rust] Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal)
+  - [[Rust] FastLabs: We develop fast Rust crates and release them fast.](https://github.com/fast)
 - 🤔 I’m mentoring or mentored:
   - [Apache Answer (incubating)](https://answer.apache.org) (From 2023-10)
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
-  - [Apache StreamPark (incubating): Streaming Job Console](https://github.com/apache/incubator-streampark) (From 2022-09)
-  - [Apache OpenDAL: Access Data Freely](https://github.com/apache/incubator-opendal) ([Graduated 2024-01](https://www.tisonkun.com/blog/a-recap-of-apache-kvrocks-becoming-tlp), From 2023-02)
+  - [Apache StreamPark (incubating): Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (From 2022-09)
+  - [Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - Welcome to contact me for Apache Incubator programs.
 - 🔧 I'm maintaining or maintained:
@@ -26,7 +25,7 @@
   - building an open-source community
   - distributed database
   - streaming systems
-- 📫 Reach me: [tison1096](https://tisonkun.com/)
+- 📫 Reach me: [tison1096](https://tisonkun.io/)
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
 
