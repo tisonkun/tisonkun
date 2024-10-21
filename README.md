@@ -37,10 +37,6 @@ Welcome to sponsor my open-source works!
 
 #### Selected posts
 
-English:
-
-* [DevRel: North Star Metrics and Values](https://medium.com/@tisonkun/devrel-north-star-metrics-and-values-48d67c1d66ae)
-
 Chinese:
 
 * [从参与 Rust 标准库开发看开源贡献的源动力](https://www.tisonkun.org/2024/08/09/rust-lang-acp/)
