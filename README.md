@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
+  - [[Rust] Morax: Message queue and data streaming based on cloud services](https://github.com/tisonkun/morax)
   - [[Rust] Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal)
   - [[Rust] FastLabs: We develop fast Rust crates and release them fast.](https://github.com/fast)
 - 🤔 I’m mentoring or mentored:
