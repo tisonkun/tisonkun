@@ -18,10 +18,10 @@
   - [Apache Flink](https://flink.apache.org/) (Committer)
   - [Apache Pulsar](https://pulsar.apache.org/) (Committer, PMC Member)
   - [Apache ZooKeeper](https://zookeeper.apache.org/) (Committer, PMC Member)
-  - [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) (Team Member)
+  - [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) (Former Team Member)
   - [Raku (Perl 6)](https://github.com/Raku) (Former Team Member)
   - [TiDB](https://github.com/pingcap/tidb) (Former Team Member)
-  - [TiKV](https://tikv.org/) (Team Member)
+  - [TiKV](https://tikv.org/) (Former Team Member)
 - 💬 Ask me about:
   - Building an open-source community
   - Database (distributed, cloud-native)
