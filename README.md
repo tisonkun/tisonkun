@@ -23,9 +23,9 @@
   - [TiDB](https://github.com/pingcap/tidb) (Former Team Member)
   - [TiKV](https://tikv.org/) (Team Member)
 - 💬 Ask me about:
-  - building an open-source community
-  - distributed database
-  - streaming systems
+  - Building an open-source community
+  - Database (distributed, cloud-native)
+  - Streaming system
 - 📫 Reach me: [tison1096](https://tisonkun.io/)
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
@@ -37,6 +37,10 @@ Welcome to sponsor my open-source works!
 <img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
 
 #### Selected posts
+
+English:
+
+* [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
 
 Chinese:
 
