@@ -26,7 +26,7 @@
   - Building an open-source community
   - Database (distributed, cloud-native)
   - Streaming system
-- 📫 Reach me: [tison1096](https://tisonkun.io/)
+- 📫 Reach me: tison1096
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
 
