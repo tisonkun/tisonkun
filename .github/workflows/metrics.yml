@@ -9,7 +9,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: mrcroxx/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
