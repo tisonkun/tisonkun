@@ -36,11 +36,14 @@ Welcome to sponsor my open-source works!
 
 <img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
 
+![GitHub Metrics](github-metrics.svg)
+
 #### Selected posts
 
 English:
 
 * [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
+* [From Structured to Semi-Structured Data: Empowered by a Flexible Data Model](https://flex-ninja.medium.com/from-structured-to-semi-structured-data-empowered-by-a-flexible-data-model-0dd984336590)
 
 Chinese:
 
