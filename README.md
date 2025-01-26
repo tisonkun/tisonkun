@@ -36,18 +36,22 @@ Welcome to sponsor my open-source works!
 
 <img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
 
-![GitHub Metrics](github-metrics.svg)
+<a href="https://github.com/tisonkun">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/tisonkun">
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
+</a>
 
 #### Selected posts
 
 English:
 
+* [Introducing ScopeDB: Manage Data in Petabytes for An Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
 * [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
-* [From Structured to Semi-Structured Data: Empowered by a Flexible Data Model](https://flex-ninja.medium.com/from-structured-to-semi-structured-data-empowered-by-a-flexible-data-model-0dd984336590)
 
 Chinese:
 
-* [从参与 Rust 标准库开发看开源贡献的源动力](https://www.tisonkun.org/2024/08/09/rust-lang-acp/)
 * [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
 * [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
 * [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
