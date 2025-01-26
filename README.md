@@ -10,7 +10,7 @@
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache Answer: Q&A platform software](https://answer.apache.org) (Graduated 2024-12, From 2023-10)
   - [Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
-  - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated at 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
+  - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
   - Welcome to contact me for Apache Incubator programs.
 - 🔧 I'm maintaining or maintained:
