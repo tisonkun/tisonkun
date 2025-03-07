@@ -2,14 +2,14 @@
 
 - 👯 I’m actively working on:
   - [[Rust] FastLabs: We develop fast Rust crates and release them fast.](https://github.com/fast)
-  - [[Rust] Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal)
+  - [[Rust] Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal)
   - [[Rust] Morax: Message queue and data streaming based on cloud services](https://github.com/tisonkun/morax)
 - 🤔 I’m mentoring or mentored:
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache Answer: Q&A platform software](https://answer.apache.org) (Graduated 2024-12, From 2023-10)
-  - [Apache OpenDAL: Access Data Freely](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
+  - [Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
   - Welcome to contact me for Apache Incubator programs.
