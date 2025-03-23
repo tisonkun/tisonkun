@@ -5,6 +5,7 @@
   - [[Rust] Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal)
   - [[Rust] Morax: Message queue and data streaming based on cloud services](https://github.com/tisonkun/morax)
 - 🤔 I’m mentoring or mentored:
+  - Welcome to contact me for Apache Incubator programs.
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
   - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
@@ -12,9 +13,8 @@
   - [Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
-  - Welcome to contact me for Apache Incubator programs.
 - 🔧 I'm maintaining or maintained:
-  - [Apache Curator](https://curator.apache.org/docs/about) (Committer, PMC Member)
+  - [Apache Curator](https://curator.apache.org/) (Committer, PMC Member)
   - [Apache Flink](https://flink.apache.org/) (Committer)
   - [Apache Pulsar](https://pulsar.apache.org/) (Committer, PMC Member)
   - [Apache ZooKeeper](https://zookeeper.apache.org/) (Committer, PMC Member)
@@ -45,6 +45,7 @@ Welcome to sponsor my open-source works! [[GitHub Sponsor]](https://github.com/s
 
 English:
 
+* [Why Not SQL: The Origin of ScopeQL](https://www.scopedb.io/blog/scopeql-origins)
 * [Introducing ScopeDB: Manage Data in Petabytes for An Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
 * [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
 
