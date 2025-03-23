@@ -34,6 +34,8 @@
 
 Welcome to sponsor my open-source works! [[GitHub Sponsor]](https://github.com/sponsors/tisonkun)
 
+<img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
+
 <a href="https://github.com/tisonkun">
   <img align="center" width="49%" src="./metrics-main.svg" />
 </a>
