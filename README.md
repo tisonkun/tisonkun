@@ -14,7 +14,7 @@
   - [Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
-- 🔧 I'm maintaining or maintained:
+- 🔧 I'm maintaining or have maintained:
   - [Apache Curator](https://curator.apache.org/) (Committer, PMC Member)
   - [Apache Flink](https://flink.apache.org/) (Committer)
   - [Apache Pulsar](https://pulsar.apache.org/) (Committer, PMC Member)
@@ -25,8 +25,7 @@
   - [TiKV](https://tikv.org/) (Former Team Member)
 - 💬 Ask me about:
   - Building an open-source community
-  - Database (distributed, cloud-native)
-  - Streaming system
+  - Data Service (Database, Streaming System, Data-Driven Application, etc.)
 - 📫 Reach me: tison1096
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
@@ -49,7 +48,7 @@ Welcome to sponsor my open-source works! [[GitHub Sponsor]](https://github.com/s
 English:
 
 * [Why Not SQL: The Origin of ScopeQL](https://www.scopedb.io/blog/scopeql-origins)
-* [Introducing ScopeDB: Manage Data in Petabytes for An Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
+* [Introducing ScopeDB: Manage Data in Petabytes for an Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
 * [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
 
 Chinese:
