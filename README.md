@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👯 I’m actively working on:
+  - [[Rust] ScopeDB: Fluent & Powerful Cloud Data Service Growing With Your Business](https://www.scopedb.io/)
   - [[Rust] FastLabs: We develop fast Rust crates and release them fast.](https://github.com/fast)
   - [[Rust] Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal)
   - [[Rust] Percas: PERsistent CAche Service](https://github.com/scopedb/percas)
-  - [[Rust] Morax: Message queue and data streaming based on cloud services](https://github.com/tisonkun/morax)
 - 🤔 I’m mentoring or mentored:
   - Welcome to contact me for Apache Incubator programs.
   - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
