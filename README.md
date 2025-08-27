@@ -7,10 +7,9 @@
   - [[Rust] Percas: PERsistent CAche Service](https://github.com/scopedb/percas)
 - 🤔 I’m mentoring or mentored:
   - Welcome to contact me for Apache Incubator programs.
-  - [Apache Fury (incubating)](https://github.com/apache/incubator-fury) (From 2023-12)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
-  - [Apache HoraeDB (incubating)](https://horaedb.apache.org) (From 2023-12)
   - [Apache Answer: Q&A platform software](https://answer.apache.org) (Graduated 2024-12, From 2023-10)
+  - [Apache Fory: Blazingly-fast multi-language serialization framework](https://github.com/apache/fory) (Graduated 2025-07, From 2023-12)
   - [Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.com/blog/a-recap-of-apache-opendal-becoming-tlp), From 2022-04)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
@@ -32,7 +31,7 @@
 
 ### Sponsor my masterpiece 🤝
 
-Welcome to sponsor my open-source works! [[GitHub Sponsor]](https://github.com/sponsors/tisonkun)
+Welcome to sponsoring my open-source works! [[GitHub Sponsor]](https://github.com/sponsors/tisonkun)
 
 <img src="https://user-images.githubusercontent.com/18818196/200033123-46dbbb1e-ce16-4f7b-9b87-79733fe3afe3.png" width="256" height="256">
 
