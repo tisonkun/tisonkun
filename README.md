@@ -55,9 +55,10 @@ Welcome to sponsoring my open-source works! [[GitHub Sponsor]](https://github.co
 
 English:
 
+* [Schema On The Fly: Three ScopeDB Design Principles (Part 2)](https://www.scopedb.io/blog/schema-on-the-fly)
+* [Insight In No Time: Three ScopeDB Design Principles (Part 1)](https://www.scopedb.io/blog/insight-in-no-time)
 * [Why Not SQL: The Origin of ScopeQL](https://www.scopedb.io/blog/scopeql-origins)
 * [Introducing ScopeDB: Manage Data in Petabytes for an Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
-* [From Shared Nothing to Shared Disk: Build a Fully Flexible Data System on Cloud Services](https://flex-ninja.medium.com/from-shared-nothing-to-shared-disk-build-a-fully-flexible-data-system-on-cloud-services-31538a356db2)
 
 Chinese:
 
