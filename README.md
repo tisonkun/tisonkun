@@ -2,6 +2,7 @@
 
 - 👯 I’m actively working on:
   - ScopeDB: Insight in No Time, Schema On The Fly
+    - [Cloud Elasticity: Three ScopeDB Design Principles (Part 3)](https://www.scopedb.io/blog/cloud-elasticity)
     - [Schema On The Fly: Three ScopeDB Design Principles (Part 2)](https://www.scopedb.io/blog/schema-on-the-fly)
     - [Insight In No Time: Three ScopeDB Design Principles (Part 1)](https://www.scopedb.io/blog/insight-in-no-time)
     - [Introducing ScopeDB: Manage Data in Petabytes for an Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
@@ -13,7 +14,6 @@
   - [Apache Fluss (incubating)](https://github.com/apache/fluss) (From 2025-06)
   - [Apache Iggy (incubating)](https://github.com/apache/iggy) (From 2025-02)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
-  - [Apache HoraeDB (incuabting)](https://github.com/apache/horaedb) (From 2023-12)
   - [Apache Teaclave: SDKs for Trusted Execution Environment (TEE)](https://teaclave.apache.org/) ([Graduated 2025-08](https://www.tisonkun.org/2025/08/22/teaclave/), From 2019-08)
   - [Apache Fory: Blazingly-fast multi-language serialization framework](https://github.com/apache/fory) (Graduated 2025-07, From 2023-12)
   - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
@@ -34,7 +34,7 @@
 - 💬 Ask me about:
   - Building an open-source community
   - Data Service (Database, Streaming System, Data-Driven Application, etc.)
-- 📫 Reach me: tison1096
+- 📫 WeChat & Twitter: tison1096
 - 😄 Pronouns: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
 
@@ -55,6 +55,7 @@ Welcome to sponsoring my open-source works! [[GitHub Sponsor]](https://github.co
 
 English:
 
+* [Cloud Elasticity: Three ScopeDB Design Principles (Part 3)](https://www.scopedb.io/blog/cloud-elasticity)
 * [Schema On The Fly: Three ScopeDB Design Principles (Part 2)](https://www.scopedb.io/blog/schema-on-the-fly)
 * [Insight In No Time: Three ScopeDB Design Principles (Part 1)](https://www.scopedb.io/blog/insight-in-no-time)
 * [Why Not SQL: The Origin of ScopeQL](https://www.scopedb.io/blog/scopeql-origins)
@@ -62,6 +63,7 @@ English:
 
 Chinese:
 
+* [现在有了 Vibe Coding 生产代码，开源协作还有意义吗？](https://www.tisonkun.org/2025/12/31/open-source-and-ai/)
 * [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
 * [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
 * [企业实践开源的动机](https://www.tisonkun.org/2022/05/26/motivation-of-enterprise-open-source/)
