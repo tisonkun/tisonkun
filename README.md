@@ -10,20 +10,20 @@
     - Homepage: https://github.com/fast/
     - Blogs: https://fast.github.io/
 - 🤔 I’m a Board Director and Incubator Mentor of the Apache Software Foundation (ASF), often guiding open-source projects to grow and/or enter the [ASF Incubator](https://incubator.apache.org/). Feel free to contact me about Apache Incubator programs! I have been mentoring or mentored:
-  - [Apache Answer: Q&A platform software](https://answer.apache.org) (Graduated 2024-12, From 2023-10)
+  - [Apache Answer](https://answer.apache.org) (Graduated 2024-12, From 2023-10)
   - [Apache Asyncband (incubating)](https://github.com/apache/asyncband) (From 2026-08)
   - [Apache Casbin (incubating)](https://github.com/apache/casbin) (From 2026-02)
   - [Apache Fesod (incubating)](https://github.com/apache/fesod) (From 2025-09)
   - [Apache Fluss](https://github.com/apache/fluss) (Graduated 2026-07, From 2025-06)
-  - [Apache Fory: Blazingly-fast multi-language serialization framework](https://github.com/apache/fory) (Graduated 2025-07, From 2023-12)
+  - [Apache Fory](https://github.com/apache/fory) (Graduated 2025-07, From 2023-12)
   - [Apache GraphAr (incubating)](https://github.com/apache/incubator-graphar) (From 2024-03)
   - [Apache Iggy](https://github.com/apache/iggy) (Graduated 2026-08, From 2025-02)
-  - [Apache Kvrocks: Better Redis on Flash with RocksDB](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.org/2023/06/28/kvrocks-graduate/), From 2022-04)
+  - [Apache Kvrocks](https://github.com/apache/kvrocks) ([Graduated 2023-06](https://www.tisonkun.org/2023/06/28/kvrocks-graduate/), From 2022-04)
   - [Apache Maka (incubating)](https://github.com/apache/maka) (From 2026-08)
-  - [Apache OpenDAL: One Layer, All Storage](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
+  - [Apache OpenDAL](https://github.com/apache/opendal) ([Graduated 2024-01](https://tisonkun.io/posts/apache-opendal-graduation), From 2023-02)
   - [Apache Ossie (incubating)](https://github.com/apache/ossie) (From 2026-06)
-  - [Apache StreamPark: Streaming Application Development Framework & Operation Platform](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
-  - [Apache Teaclave: SDKs for Trusted Execution Environment (TEE)](https://teaclave.apache.org/) ([Graduated 2025-08](https://www.tisonkun.org/2025/08/22/teaclave/), From 2019-08)
+  - [Apache StreamPark](https://streampark.apache.org) (Graduated 2025-01, From 2022-09)
+  - [Apache Teaclave](https://teaclave.apache.org/) ([Graduated 2025-08](https://www.tisonkun.org/2025/08/22/teaclave/), From 2019-08)
 - 🔧 I'm maintaining or have maintained:
   - [Apache Curator](https://curator.apache.org/) (Committer, PMC Member)
   - [Apache Flink](https://flink.apache.org/) (Committer)
