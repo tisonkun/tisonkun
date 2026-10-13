@@ -26,6 +26,7 @@
   - [Apache Teaclave](https://teaclave.apache.org/) ([Graduated 2025-08](https://www.tisonkun.org/2025/08/22/teaclave/), From 2019-08)
 - 🔧 I'm maintaining or have maintained:
   - [Apache Curator](https://curator.apache.org/) (Committer, PMC Member)
+  - [Apache DataSketches](https://datasketches.apache.org/) (Committer, PMC Member)
   - [Apache Flink](https://flink.apache.org/) (Committer)
   - [Apache InLong](https://inlong.apache.org/) (Committer, PMC Member)
   - [Apache Pulsar](https://pulsar.apache.org/) (Committer, PMC Member)
