@@ -1,14 +1,18 @@
 # Hi, I'm tison 👋
 
-I'm a co-founder of [ScopeDB](https://www.scopedb.io/). I also serve as a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
+My day job is building [ScopeDB](https://www.scopedb.io/), which I co-founded.
+
+I help open-source communities grow as a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
 
 [Blog](https://www.tisonkun.org/) · [GitHub Sponsors](https://github.com/sponsors/tisonkun)
 
 ## What I'm working on
 
-[ScopeDB](https://www.scopedb.io/): Insight in No Time, Schema On The Fly. [Blog](https://www.scopedb.io/blog).
+[ScopeDB](https://www.scopedb.io/) is a petabyte-scale database that turns live event data into real-time insights, with schemas that adapt as the data changes.
 
-[FastLabs](https://github.com/fast/): We develop fast Rust crates and release them fast. [Blog](https://fast.github.io/).
+[FastLabs](https://github.com/fast/) brings together our work on fast Rust crates, from tracing and logging to error handling.
+
+My Apache work focuses on Rust infrastructure: [Apache Asyncband (incubating)](https://github.com/apache/asyncband) for async coordination, [Apache DataSketches for Rust](https://github.com/apache/datasketches-rust) for streaming sketches, and [Apache OpenDAL](https://github.com/apache/opendal) for unified data access.
 
 ## Writing
 
@@ -22,8 +26,6 @@ I'm a co-founder of [ScopeDB](https://www.scopedb.io/). I also serve as a Board 
 
 ### Selected posts in Chinese
 
-- [还能组一辈子开源乐队吗？](https://www.tisonkun.org/2026/10/09/oss-relevance/)
-- [代码上道：智能体编程时代的质量守则](https://www.tisonkun.org/2026/09/18/code-soundness/)
 - [When Code Is Cheap](https://www.tisonkun.org/2026/08/25/when-code-is-cheap/)
 - [掉进兔子洞：开源作为生活方式](https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/)
 - [现在有了 Vibe Coding 生产代码，开源协作还有意义吗？](https://www.tisonkun.org/2025/12/31/open-source-and-ai/)
@@ -84,8 +86,8 @@ Projects I maintain or have maintained:
 
 - 💬 Ask me about:
   - Building open-source communities
-  - Distributed systems
-  - Data services (databases, streaming systems, and data-driven applications)
+  - Databases and distributed systems
+  - Streaming and data-driven applications
 - 📫 Reach me at: **tison1096**
 - 😄 Name pronunciation: tison /tisən/
 - ⚡ Fun fact: I'm a modern wizard.
