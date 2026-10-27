@@ -1,14 +1,14 @@
 # Hi, I'm tison 👋
 
-My day job is building [ScopeDB](https://www.scopedb.io/), which I co-founded.
+I'm building [ScopeDB](https://www.scopedb.io/) during the day as its co-founder.
 
-I help open-source communities grow as a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
+I help open-source communities grow and serve as a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
 
 [Blog](https://www.tisonkun.org/) · [GitHub Sponsors](https://github.com/sponsors/tisonkun)
 
 ## What I'm working on
 
-[ScopeDB](https://www.scopedb.io/) is a petabyte-scale database that turns live event data into real-time insights, with schemas that adapt as the data changes.
+[ScopeDB](https://www.scopedb.io/) is a serverless database that turns live event data into real-time insights, with schemas that adapt as the data changes.
 
 [FastLabs](https://github.com/fast/) brings together our work on fast Rust crates, from tracing and logging to error handling.
 
