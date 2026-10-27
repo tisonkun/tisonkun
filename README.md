@@ -1,26 +1,16 @@
 # Hi, I'm tison 👋
 
-I build data systems and open-source communities. I'm a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
+I'm a co-founder of [ScopeDB](https://www.scopedb.io/). I also serve as a Board Director and Incubator Mentor at the Apache Software Foundation (ASF).
 
 [Blog](https://www.tisonkun.org/) · [GitHub Sponsors](https://github.com/sponsors/tisonkun)
 
 ## What I'm working on
 
-| Project | Focus | Links |
-| --- | --- | --- |
-| [ScopeDB](https://www.scopedb.io/) | Insight in No Time, Schema On The Fly | [Blog](https://www.scopedb.io/blog) |
-| [FastLabs](https://github.com/fast/) | We develop fast Rust crates and release them fast. | [Blog](https://fast.github.io/) |
+[ScopeDB](https://www.scopedb.io/): Insight in No Time, Schema On The Fly. [Blog](https://www.scopedb.io/blog).
+
+[FastLabs](https://github.com/fast/): We develop fast Rust crates and release them fast. [Blog](https://fast.github.io/).
 
 ## Writing
-
-### Recent posts in Chinese
-
-| Published | Post |
-| --- | --- |
-| 2026-10-09 | [还能组一辈子开源乐队吗？](https://www.tisonkun.org/2026/10/09/oss-relevance/) |
-| 2026-09-18 | [代码上道：智能体编程时代的质量守则](https://www.tisonkun.org/2026/09/18/code-soundness/) |
-| 2026-08-25 | [When Code Is Cheap](https://www.tisonkun.org/2026/08/25/when-code-is-cheap/) |
-| 2026-06-30 | [掉进兔子洞：开源作为生活方式](https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/) |
 
 ### Selected posts in English
 
@@ -30,9 +20,12 @@ I build data systems and open-source communities. I'm a Board Director and Incub
 - [Why Not SQL: The Origin of ScopeQL](https://www.scopedb.io/blog/scopeql-origins)
 - [Introducing ScopeDB: Manage Data in Petabytes for an Observability Platform](https://www.scopedb.io/blog/manage-observability-data-in-petabytes)
 
-<details>
-<summary>More selected posts in Chinese</summary>
+### Selected posts in Chinese
 
+- [还能组一辈子开源乐队吗？](https://www.tisonkun.org/2026/10/09/oss-relevance/)
+- [代码上道：智能体编程时代的质量守则](https://www.tisonkun.org/2026/09/18/code-soundness/)
+- [When Code Is Cheap](https://www.tisonkun.org/2026/08/25/when-code-is-cheap/)
+- [掉进兔子洞：开源作为生活方式](https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/)
 - [现在有了 Vibe Coding 生产代码，开源协作还有意义吗？](https://www.tisonkun.org/2025/12/31/open-source-and-ai/)
 - [开发者关系的指标与价值](https://www.tisonkun.org/2024/01/26/devrel-qualified-leads/)
 - [国产开源社群的运营，为何总是画风奇特？](https://www.tisonkun.org/2023/06/04/oss-community-in-china/)
@@ -44,8 +37,6 @@ I build data systems and open-source communities. I'm a Board Director and Incub
 - [共同创造价值](https://www.tisonkun.org/2022/02/10/value-creation/)
 - [《大教堂与集市》书评](https://www.tisonkun.org/2021/12/14/the-cathedral-and-the-bazaar/)
 - [《纳瓦尔宝典》书评](https://www.tisonkun.org/2022/06/09/the-almanack-of-naval-ravikant/)
-
-</details>
 
 ## Apache Incubator mentorship
 
@@ -91,11 +82,13 @@ Projects I maintain or have maintained:
 
 ## Get in touch
 
-Ask me about building open-source communities or data services: databases, streaming systems, and data-driven applications.
-
-WeChat & X (Twitter): **tison1096**
-
-Name pronunciation: tison /tisən/. Fun fact: I'm a modern wizard. ⚡
+- 💬 Ask me about:
+  - Building open-source communities
+  - Distributed systems
+  - Data services (databases, streaming systems, and data-driven applications)
+- 📫 Reach me at: **tison1096**
+- 😄 Name pronunciation: tison /tisən/
+- ⚡ Fun fact: I'm a modern wizard.
 
 ## Sponsor my open-source work 🤝
 
